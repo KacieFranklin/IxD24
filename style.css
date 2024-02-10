@@ -14,10 +14,14 @@ h2{
   background-color: black;
   font-size: 54;
   text-align:center;
+  margin-right:25px;
+  margin-left:25px;
 }
 p{
   color:red;
   background-color: black;
   font-size:48;
   text-align:center;
+  margin-right:25px;
+  margin-left:25px;
 }
