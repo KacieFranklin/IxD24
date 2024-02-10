@@ -12,5 +12,10 @@ h1{
 h2{
   color: red;
   background-color: black;
-  font-size: 48;
+  font-size: 54;
+}
+ul{
+  color:red;
+  background-color: black;
+  font-size:48;
 }
