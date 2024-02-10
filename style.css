@@ -32,6 +32,11 @@ p{
   text-align:center;
   font-size: 60;
   margin-top: 25px;
+
+#reasons{
+  font-size: 48;
+}
+  
   margin-left: 25px;
   margin-right: 25px;
   padding: 45px;
