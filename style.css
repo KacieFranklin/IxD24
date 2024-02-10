@@ -8,3 +8,9 @@ h1{
   margin-right: 25px;
   padding: 45px;
 }
+
+h2{
+  color: red;
+  background-color: black;
+  font-size: 48;
+}
