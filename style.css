@@ -13,9 +13,11 @@ h2{
   color: red;
   background-color: black;
   font-size: 54;
+  text-align:center;
 }
-ul{
+p{
   color:red;
   background-color: black;
   font-size:48;
+  text-align:center;
 }
