@@ -4,5 +4,7 @@ h1{
   text-align:center;
   font-size: 60;
   margin-top: 25px;
+  margin-left: 25px;
+  margin-right: 25px;
   padding: 45px;
 }
